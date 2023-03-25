@@ -1,0 +1,12 @@
+name: mlpractice
+channels: 
+    - conda-forge
+    - nodefaults
+dependencies:
+    - python=3.10.*
+    - pandas=1.4.*
+    - scikit-learn=1.1.*
+    - ipython
+    - ipykernel
+    - ipywidgets
+    - statsmodels
